@@ -91,6 +91,11 @@ header{
 	font-family: 'Dancing Script', cursive;
 	color: #999da2;
 }
+.demo{
+	width: 100%;
+	padding: 0px 0px;
+	text-align: center;
+}
 .demo-content{
 	display: grid;
 	grid-template-columns: auto auto auto auto;
@@ -99,7 +104,6 @@ header{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 12px;
 	text-align: center;
-	margin-right: 85px;
 	margin-bottom: 100px;
 	color: #666a6b;
 }
